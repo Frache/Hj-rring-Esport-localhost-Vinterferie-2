@@ -29,8 +29,8 @@ public class DBConnection
 	private static final String dbName = "HJEsport";
 	private static final String serverAddress = "localhost";
 	private static final int    serverPort = 1433;
-	private static final String userName = "sa";
-	private static final String password = "secret";
+	private static final String userName = "XXX";
+	private static final String password = "XXXXX";
 	
 	private DBConnection() 
 	{
