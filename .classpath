@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Hjørring Esport localhost/src"/>
+	<classpathentry kind="lib" path="Hjørring Esport localhost/jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="Hjørring Esport localhost/jgoodies-forms-1.8.0.jar"/>
+	<classpathentry kind="lib" path="Hjørring Esport localhost/lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="Hjørring Esport localhost/lib/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="Hjørring Esport localhost/miglayout15-swing.jar"/>
+	<classpathentry kind="output" path="Hjørring Esport localhost/bin"/>
+</classpath>
